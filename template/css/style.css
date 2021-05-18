@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+body{
+    min-height: 100%;
+    margin:0;
+	padding:0;
+}
+
+#Inscrivez-vous{
+	margin-bottom: 310px;
+}
+#indisponible{
+	margin-bottom: 560px;
+}
+
+#defis{
+	height: 200px;
+}
